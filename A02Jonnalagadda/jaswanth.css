@@ -1,0 +1,250 @@
+#l2
+	{	
+		display:inline;
+		float:right;
+		font-style:Georgia;
+		font-size:20px;
+		display: block;
+		color:orange;
+		padding:14px,20px;
+		text-decoration:none;
+		word-spacing: 7px;
+	}
+#li1
+	{
+		font-size:20px;
+	}	
+ul
+	{
+		color:#8ab130;
+	}
+#p1
+	{
+		font-family:impact;
+		color:#008080;
+		font-size:20px;
+	}
+#p2
+	{
+		font-family:verdana;
+		color:#1a8cff;
+		font-size:25px;
+		width:40px;
+		display:inline;
+		width:60px;
+		font-style:arial;
+	}
+#d1
+	{
+		color:grey;
+		font-family:comic;
+		border-style:ridge;
+		border-color:grey;
+		float:left;
+		border-radius:20px; 
+		padding:5px;
+	}
+#ul3
+	{
+		background-color: black;
+	}
+#cam	
+	{
+		color:red;
+	}
+#ul1
+	{
+		border-width:10px;
+	}
+body
+	{
+		padding:40px;
+		padding-color:black;
+		background-image:url("c2.jpg");
+		background-repeat: no-repeat;
+		background-size: 130% 180%;
+		border-margin:2px;
+		padding-top: 10px;
+	}
+#b1
+	{
+		background-image: url("c2.jpg");
+		background-size: 140% 150%;
+	}
+#b2
+	{
+		background-size: 120% 400%
+		background-repeat: no-repeat;
+		background-image: url("w2.jpg");
+		padding: 10px 10px;
+	}
+#b3
+	{
+		background-image: c2;
+		background-repeat: no-repeat;
+		background-size: 110% 280%;
+	}
+a
+	{
+		text-decoration:none;
+		color:#008080;
+		
+	}
+a:hover
+	{
+		color:orange;
+	}
+a:active
+	{
+		color:green;
+	}
+#d2
+	{
+		font-family:Georgia;
+		font-size: 18px;
+		color:#003333;		
+	}
+#ul2 
+	{
+		font-size:19px;
+		font-family:comic;
+	}
+#l2
+	{
+		font-family: verdana;
+		size:15px;
+		color:black;
+	}
+#d2
+	{
+		font-family:comic;
+		font-size:18px;
+	}
+#f1
+	{
+		font-family:arial;
+		font-size:18px;
+		color:darkred;
+	}
+#f2
+	{
+		font-family:Tahoma;
+		font-size:16px;
+		color:white;
+	}
+class fb-comments
+	{
+		font-family: arial;
+		color:blue;
+		size:20px;
+	}
+#fb-root
+	{
+		color:black;
+		font-family: arial;
+		font-style: bold;
+	}
+#backgroundvid
+ 	{  
+ 		position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; background: url(polina.jpg) no-repeat; background-size: cover;
+	}
+#sp1
+	{
+		color:green;
+	}
+#pre1
+	{
+		font-family:georgia;
+		size:30px;
+		color:black;
+		text-decoration:none;
+	}
+#h
+	{
+		color:#b30000;
+		font-family: verdana;
+		font-size: 40px; 
+	}
+#f1
+	{
+		color:black;
+	}
+#f2
+	{
+		color:black;
+		text-decoration: none;
+		font-style:arial;
+		size:20px;
+	}
+fieldset
+	{
+		border-color:green;
+	}
+#f3
+	{
+		font-family: Lucida;
+		font-size:15px;
+	}
+#im
+	{
+		position: relative;;
+	}
+#im img
+	{
+		position:absolute;
+		top: -16px;
+		right:40px;
+	}
+#t1
+	{
+		border-style: 1px solid black;
+		width : 80%;
+	}
+#r1
+	{
+		display: inline;
+	}
+
+#di div
+	{
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+	}
+#bg1
+	{
+		font-family: times;
+		font-size:24px;
+	}
+#bg2
+	{
+		font-family: comic;
+		font-size:20px;
+		color:#b36b00;
+	}
+#h1
+	{
+		color:#6600cc;
+		text-align: center;
+	}
+u
+	{
+		color:red;
+	}
+#sec1
+{
+	padding:10px;
+	padding-top: 30px;
+}
+#pn
+{
+	text-decoration: none;
+	font-style: verdana;
+	font-size: 25px;
+	padding-top: -70px;
+	padding: 0px;
+}
+body
+{
+	padding-top: 10px;
+}

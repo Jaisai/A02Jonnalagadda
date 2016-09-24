@@ -1,0 +1,38 @@
+#p1
+{
+	color:darkgreen;
+}
+#p2
+{
+	padding:20px;
+	border-spacing: 20px;
+	padding-left: 20px;
+	color:blue;
+}
+a:#p1 hover
+{
+	color:yellow;
+}
+
+#cs1
+{
+	padding-left: 20px;
+	padding-top: 60px;
+}
+#th1
+{
+	text-decoration:none;
+	font-style: verdana;
+}
+#c1
+{
+	padding:0;
+	text-decoration: none;
+	
+}
+#im img
+	{
+		position:absolute;
+		top: 1px;
+		right:-260px;
+	}
